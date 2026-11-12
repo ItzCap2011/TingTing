@@ -1,0 +1,7 @@
+CC-CEDICT — Published by MDBG and the CC-CEDICT contributors.
+Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+Source: https://www.mdbg.net/chinese/dictionary?page=cc-cedict
+Referenced work: CEDICT, Copyright (C) 1997, 1998 Paul Andrew Denisowski.
+Adaptation: simplified-headword JSON index; classifier-only glosses omitted; definitions joined and readings sorted. All adapted dictionary data remains CC BY-SA 4.0.
+Snapshot: 2026-11-11
